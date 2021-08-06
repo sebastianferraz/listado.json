@@ -1,0 +1,22 @@
+[
+{
+    "nombre": "Juan",
+    "edad": 8,
+    "cualidad": "alegre"
+},
+{
+    "nombre": "Coco",
+    "edad": 1,
+    "cualidad": "miedoso"
+},
+{
+    "nombre": "Roberto",
+    "edad": 3,
+    "cualidad": "le gusta el mate"
+},
+{
+    "nombre": "Pepe",
+    "edad": 12,
+    "cualidad": "juguetón"
+}
+]
